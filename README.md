@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koushik Bhunia</h1>
+<h1 align="center">Hi 👋, I'm Koushik</h1>
 <h3 align="center">A Passionate Website Designer🚀</h3>
 
 <p align="center">
