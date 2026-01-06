@@ -7,8 +7,8 @@
 
 ---
 
-- 🔭 **Currently Building:** Data handling with machine learning models. 
-- 🌱 **Learning Focus:** Focus on improving <strong>Python, SQL, Excel,</strong>and <strong>data visualization</strong> skills with enhancing the knowledge of statics and data modeling.
+- 🔭 **Currently Building:** Data handling with statistical machine learning models. 
+- 🌱 **Learning Focus:** Focus on improving <strong>Python, SQL, Excel,</strong>and <strong>data visualization</strong>
 - 💡 **Passionate About:** Strong interest in data-driven decision making and highly motivated to learn new data analysis tools and techniques.
 
 ---
