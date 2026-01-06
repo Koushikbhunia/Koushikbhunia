@@ -23,7 +23,7 @@
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/koushik-bhunia-004103246/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
