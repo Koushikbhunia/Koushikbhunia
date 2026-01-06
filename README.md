@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,tailwind,scss,firebase,appwrite,astro,bash" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python, Excel, Power BI, Pandas, matplotlib" alt="Tech Stack Icons" />
 </p>
 
 ---
