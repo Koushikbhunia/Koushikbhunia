@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Koushik</h1>
-<h3 align="center">A Passionate Website Designer🚀</h3>
+<h3 align="center">A Passionate Data Analyst🚀</h3>
 
 <p align="center">
-  Transforming ideas into delightful digital experiences with a focus on performance, scalability, and design excellence.
+  Transforming ideas into delightful digital experiences with a focus on performance, scalability, and Analyse the Data with verious method.
 </p>
 
 ---
