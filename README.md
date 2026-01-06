@@ -7,9 +7,9 @@
 
 ---
 
-- 🔭 **Currently Building:** Sleek, modern UIs with <strong>React</strong> and <strong>Next.js</strong>.
-- 🌱 **Learning Focus:** Deep diving into <strong>Next.js</strong> and exploring modern web architectures.
-- 💡 **Passionate About:** Tailoring cutting-edge frontend solutions and integrating seamless backend services.
+- 🔭 **Currently Building:** Data handling with machine learning models. 
+- 🌱 **Learning Focus:** Focus on improving <strong>Python, SQL, Excel,</strong>and <strong>data visualization</strong> skills with enhancing the knowledge of statics and data modeling.
+- 💡 **Passionate About:** Strong interest in data-driven decision making and highly motivated to learn new data analysis tools and techniques.
 
 ---
 
